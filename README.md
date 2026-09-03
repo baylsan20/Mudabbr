@@ -81,7 +81,7 @@ All implemented test cases passed successfully.
 * Integrate bank accounts, e-wallets, and payment applications
 * Support exporting reports to **PDF and Excel**
 * Further strengthen security for sensitive financial data
-[Uploading Presentation.pdf…]()
+  
 ## Tech Stack
 
 **Android | Firebase Realtime Database | OCR | Machine Learning | Java**
